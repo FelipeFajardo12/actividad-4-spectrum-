@@ -1,0 +1,22 @@
+#catalogo h3, h4 {
+	text-align: center;
+}
+
+#catalogo.contenedor {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#catalogo article {
+	margin: 15px;
+
+}
+
+#catalogo img {
+	width: 100%;
+	max-width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
